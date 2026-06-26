@@ -8,7 +8,7 @@
 2. Create a virtual environment: `python -m venv venv`
 3. Activate it: `venv\Scripts\activate` (Windows) / `source venv/bin/activate` (Mac/Linux)
 4. Install dependencies: `pip install -r requirements.txt`
-5. Download the trained model from [Google Drive](https://drive.google.com/drive/folders/13ukf5Dx44Pto7rts10u78mV-rleI9iSF) and place in `models/`
+5. Download the trained model from [Google Drive](https://drive.google.com/drive/folders/13ukf5Dx44Pto7rts10u78mV-rleI9iSF)  and place in `models/`
 6. Run the dashboard: `streamlit run dashboard/app.py`
 
 ## 🛠️ Reproducing from Scratch
