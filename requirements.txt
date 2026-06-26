@@ -1,0 +1,12 @@
+streamlit
+folium
+streamlit-folium
+matplotlib
+numpy
+xarray
+netCDF4
+pandas
+tensorflow>=2.17
+scipy
+Pillow
+plotly

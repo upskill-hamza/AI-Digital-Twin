@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data & model files
+data/climate_combined.nc
+data/train_data.npz
+data/val_data.npz
+data/test_data.npz
+models/*.keras
+models/*.h5
+data/raw
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
